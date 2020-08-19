@@ -1,0 +1,32 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Tarz Yazılım",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "https://tarzyazilim.com.tr/",
+  "short_name": "Tarz Yazılım",
+  "theme_color": "#0a4fa1",
+  "description": "Tarz Yazılım Teknolojik Sistemler Danışmanlık A.Ş. | Kurumsal Web Sitesi",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://tarzyazilim.com.tr/Images/img/tarz-favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tarzyazilim.com.tr/Images/img/tarz-favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tarzyazilim.com.tr/Images/img/tarz-favicon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

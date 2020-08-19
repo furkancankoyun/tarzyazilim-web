@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteRule ^([0-9]+)-(.*).html$ topics.php?id=$1 [NC]
+RewriteRule ^devam-eden-projeler$ category.php?id=1 [NC]
+RewriteRule ^tamamlanan-projeler$ category.php?id=2 [NC]
+RewriteRule ^konsept-projeler$ category.php?id=3 [NC]
+RewriteRule ^hakkimizda$ hakkimizda.php [NC]
+RewriteRule ^iletisim$ iletisim.php [NC]
+ErrorDocument 404 /404.php
+Options -Indexes

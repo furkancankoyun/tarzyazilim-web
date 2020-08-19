@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteRule ^([0-9]+)-(.*).html$ blogpost.php?id=$1 [NC]
+RewriteRule ^hakkimizda$ hakkimizda.php [NC]
+RewriteRule ^iletisim$ iletisim.php [NC]
+RewriteRule ^netcity-basvuru$ netcity.php [NC]
+RewriteRule ^atiker-basvuru$ atiker.php [NC]
+RewriteRule ^hizmetlerimiz$ hizmetler.php [NC]
+RewriteRule ^is-ortaklarimiz$ isortaklari.php [NC]
+RewriteRule ^insan-kaynaklari$ basvuru.php [NC]
+RewriteRule ^referanslarimiz$ referanslar.php [NC]
+RewriteRule ^tms/login$ /tms/index.html [NC]
+RewriteRule ^tms/home$ /tms/home.html [NC]
+ErrorDocument 404 /404.php
+Options -Indexes

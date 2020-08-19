@@ -1,0 +1,40 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "TMS | Tarz Medikal Sistemi",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/?utm_source=a2hs",
+  "short_name": "TMS",
+  "theme_color": "#222d32",
+  "description": "TMS | Sağlık sektöründe faaliyet gösteren ilaç, tıbbi malzeme ve sarf ürünlerini satan firmalar için geliştirilen uygulamadır.",
+  "orientation": "any",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "https://tarzyazilim.com.tr/tms/dist/img/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tarzyazilim.com.tr/tms/dist/img/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tarzyazilim.com.tr/tms/dist/img/favicon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tarzyazilim.com.tr/tms/dist/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tarzyazilim.com.tr/tms/dist/img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
